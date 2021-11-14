@@ -32,5 +32,3 @@
 
 <x-livewire-alert::scripts/>
 </html>
-
-git
